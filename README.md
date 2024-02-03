@@ -15,18 +15,15 @@ Tkinter library (usually included with Python)
 Usage
 Clone the repository:
 
-bash
-Copy code
+    
 git clone https://github.com/tirth1305/Text-Editor-Using-Python.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd Text-Editor-Using-Python
 Run the script:
 
-bash
-Copy code
+
 python TEXTEDITOR.py
 License
 This project is licensed under the MIT License.
