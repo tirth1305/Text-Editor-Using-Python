@@ -1,4 +1,4 @@
-# Text-Editor-Using-Python
+Text Editor Using Pyhton
 This is a simple text editor built using the Tkinter library in Python. It provides basic functionality to create, open, and save text files. Here's a brief overview of the features:
 
 Features
@@ -12,10 +12,31 @@ When saving a file, you'll be prompted to choose a location and enter a file nam
 Requirements
 Python 3.x
 Tkinter library (usually included with Python)
+Usage
+Clone the repository:
 
+bash
+Copy code
+git clone https://github.com/tirth1305/Text-Editor-Using-Python.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd Text-Editor-Using-Python
+Run the script:
+
+bash
+Copy code
+python TEXTEDITOR.py
 License
 This project is licensed under the MIT License.
 
 Feel free to modify and use the code as needed for your projects. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 Happy coding!
+
+
+
+
+
+
